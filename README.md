@@ -36,4 +36,3 @@ Para habilitar a comunicação em tempo real, usamos WebSockets. O servidor `ser
     <img src="public/assets/images/telaGanhador.png" width="250" height="200"/>
     <img src="public/assets/images/telaPerdedor.png" width="250" height="200"/>
 </div>
-    ---
